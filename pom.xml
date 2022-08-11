@@ -18,7 +18,7 @@
         <scala.major.version>2.11</scala.major.version>
 
         <spark.version>2.4.4</spark.version>
-        <hadoop.version>3.2.0</hadoop.version>
+        <hadoop.version>3.2.4</hadoop.version>
         <dbutils.version>0.0.4</dbutils.version>
         <azure.sqldb.spark.version>1.0.2</azure.sqldb.spark.version>
         <guava.version>14.0.1</guava.version>
